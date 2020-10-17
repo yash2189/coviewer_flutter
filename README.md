@@ -1,4 +1,5 @@
 # CoViewer Flutter
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/shrpereira/coviewer_flutter">  <img alt="GitHub" src="https://img.shields.io/github/license/shrpereira/coviewer_flutter"> <img alt="Codecov" src="https://img.shields.io/codecov/c/github/shrpereira/coviewer_flutter"> 
 
 This is a Flutter app that shows data and charts about the Covid 19 disease evolution in a majority of countries in the world.
 
